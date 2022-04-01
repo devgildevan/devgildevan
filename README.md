@@ -20,3 +20,5 @@
  </div>
  <br>
  Apaixonado por tecnologia, educação e queo mudar a vida das pessoas através da programação
+
+ ![Snake animation]()
