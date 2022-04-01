@@ -21,4 +21,4 @@
  <br>
  Apaixonado por tecnologia, educação e queo mudar a vida das pessoas através da programação
 
- ![Snake animation](https://github.com/devgildevan/devgildevan/lobo/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/devgildevan/devgildevan/blob/output/github-contribution-grid-snake.svg)
