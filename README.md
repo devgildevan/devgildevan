@@ -19,6 +19,6 @@
     
  </div>
  <br>
- Apaixonado por tecnologia, educação e queo mudar a vida das pessoas através da programação
+ Apaixonado por tecnologia, educação e quero mudar a vida das pessoas através da programação
 
  ![Snake animation](https://github.com/devgildevan/devgildevan/blob/output/github-contribution-grid-snake.svg)
